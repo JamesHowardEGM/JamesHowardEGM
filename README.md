@@ -1,20 +1,37 @@
-# Hi, I'm James Howard
+# Hi, I'm James Howard — Cyber Security Specialist
 
-Cybersecurity student finishing a Bachelor of Cybersecurity (WAM: 80, graduating 2026) with hands-on experience across SOC operations, IT services, and penetration testing. I'm building toward a career in cloud security engineering and critical infrastructure protection.
+Cybersecurity professional with hands-on experience in SOC monitoring, incident investigation, and cloud infrastructure. Skilled in Microsoft Sentinel, the Defender suite, and Azure — with a focus on cloud security and critical infrastructure protection.
 
 ---
 
-## Certifications
+## Education & Certifications
 
-| Cert | Status |
+**Earned**
+
+| Cert | Date |
 |---|---|
-| Bachelor of Cybersecurity — La Trobe University | 🔄 Graduating 2026 |
-| eJPT — eLearnSecurity Junior Penetration Tester | ✅ Completed |
-| SC-200 — Microsoft Security Operations Analyst | 🔄 In Progress |
-| Cert II Security Operations (CCTV License) | 🔄 In Progress |
-| AZ-104 — Microsoft Azure Administrator | 📅 Planned 2026 |
-| AZ-500 — Microsoft Azure Security Engineer | 📅 Planned 2027 |
-| SC-100 — Microsoft Cybersecurity Architect | 📅 Planned 2027 |
+| eJPT — Junior Penetration Tester (INE Security) | ✅ March 2026 |
+
+**In Progress**
+
+| | |
+|---|---|
+| Bachelor of Cyber Security — La Trobe University (WAM: 80) | 🔄 October 2026 |
+| Certificate II in Security Operations | 🔄 2026 |
+
+**Current Study**
+
+| | |
+|---|---|
+| SC-200 — Microsoft Security Operations Analyst | 🎯 Target: October 2026 |
+
+**Roadmap**
+
+| Cert | Target |
+|---|---|
+| AZ-104 — Microsoft Azure Administrator | 📅 2026 |
+| AZ-500 — Microsoft Azure Security Engineer | 📅 2027 |
+| SC-100 — Microsoft Cybersecurity Architect | 📅 2027 |
 
 ---
 

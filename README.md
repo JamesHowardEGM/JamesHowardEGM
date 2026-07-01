@@ -65,4 +65,4 @@ Working toward a role in cloud security engineering and critical infrastructure 
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/james-howard-egm) · 🌐 [Portfolio](https://jameshowardegm.github.io)
+📫 [LinkedIn](https://www.linkedin.com/in/jameshowardegm/) · 🌐 [Portfolio](https://jameshowardegm.github.io)

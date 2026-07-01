@@ -19,11 +19,11 @@ Cybersecurity student finishing a Bachelor of Cybersecurity (WAM: 80, graduating
 
 ## Experience
 
-**SOC Analyst Intern — OneStep Group** *(12 weeks)*
+**Cyber Security Intern (SOC Monitoring & Research) — OneStep Group** *(12 weeks)*
 Working in a Microsoft Sentinel environment — triaging alerts, investigating incidents, writing KQL detection queries, and supporting audit workflows.
 
-**IT Services Intern — OneStep Group** *(12 weeks, in progress)*
-Setting up and securing Azure environments for enterprise clients across the Microsoft 365 and Defender suite.
+**IT Intern — Football Victoria** *(12 weeks, in progress)*
+Providing IT support and setting up environments across the Microsoft 365 suite.
 
 ---
 

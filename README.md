@@ -8,6 +8,7 @@ Cybersecurity student finishing a Bachelor of Cybersecurity (WAM: 80, graduating
 
 | Cert | Status |
 |---|---|
+| Bachelor of Cybersecurity — La Trobe University | 🔄 Graduating 2026 |
 | eJPT — eLearnSecurity Junior Penetration Tester | ✅ Completed |
 | SC-200 — Microsoft Security Operations Analyst | 🔄 In Progress |
 | Cert II Security Operations (CCTV License) | 🔄 In Progress |

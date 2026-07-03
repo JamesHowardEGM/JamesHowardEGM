@@ -1,14 +1,14 @@
 # Hi, I'm James Howard — Cyber Security Specialist
 
-I came to cybersecurity from the physical world. I spent years in the construction industry reading engineering drawings, managing projects, and understanding how buildings are designed and secured. When I realised that digital infrastructure had become the most critical layer of modern society, I made the shift — enrolling in a Bachelor of Cyber Security at La Trobe University and not looking back.
+I came to cybersecurity from the physical world. I spent years in the construction industry reading engineering drawings, managing projects, and understanding how buildings are designed and secured. When I realised that digital infrastructure had become the most critical layer of modern society, I made the shift, enrolling in a Bachelor of Cyber Security at La Trobe University and not looking back.
 
-That background gives me something most cyber professionals do not have: the ability to think across both domains. I can read a site plan and understand the physical access control architecture, then trace that same event through a SIEM and correlate it with network telemetry. Physical security systems generate data too — access control events, camera feeds, alarm triggers — and the organisations that matter route all of it into unified platforms like SIEMs and PSIMs. I want to be the person who operates across both of those worlds.
+That background gives me something most cyber professionals do not have: the ability to think across both domains. I can read a site plan and understand the physical access control architecture, then trace that same event through a SIEM and correlate it with network telemetry. Physical security systems generate data too: access control events, camera feeds, alarm triggers, and the organisations that matter route all of it into unified platforms like SIEMs and PSIMs. I want to be the person who operates across both of those worlds.
 
 On the cyber side, I have hands-on SOC experience from a 12-week internship at OneStep Group, working in a live Microsoft Sentinel environment with real client incidents and real detection engineering challenges. I triage alerts, write KQL queries, study the MITRE ATT&CK framework, and think about detection the way an attacker would. I hold the eJPT certification and am currently studying for the SC-200.
 
 Academically, I am finishing my Bachelor of Cyber Security with a WAM of 80. Highlights include 91 in my Capstone Project (one of the highest marks in the cohort, recognised at the La Trobe University awards ceremony), 89 in Network Engineering Fundamentals, 85 in Computer Forensics, and 81 in Introduction to Penetration Testing. I am also completing a Certificate II in Security Operations in August 2026, giving me a formal physical security licence to complement the cyber side.
 
-My long-term focus is converged security — protecting critical infrastructure by thinking across the physical and digital boundary simultaneously.
+My long-term focus is converged security: protecting critical infrastructure by thinking across the physical and digital boundary simultaneously.
 
 ---
 

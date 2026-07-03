@@ -17,7 +17,7 @@ Cybersecurity professional with hands-on experience in SOC monitoring, incident 
 | | |
 |---|---|
 | Bachelor of Cyber Security — La Trobe University (WAM: 80) | 🔄 October 2026 |
-| Certificate II in Security Operations | 🔄 2026 |
+| Certificate II in Security Operations | 🔄 August 2026 |
 
 **Current Study**
 

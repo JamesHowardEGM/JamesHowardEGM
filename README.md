@@ -31,7 +31,7 @@ Cybersecurity professional with hands-on experience in SOC monitoring, incident 
 |---|---|
 | AZ-104 — Microsoft Azure Administrator | 📅 2026 |
 | AZ-500 — Microsoft Azure Security Engineer | 📅 2027 |
-| SC-100 — Microsoft Cybersecurity Architect | 📅 2027 |
+| SC-100 — Microsoft Cybersecurity Architect | 📅 2028 |
 | Certificate IV in Security Management | 📅 2027 |
 
 ---

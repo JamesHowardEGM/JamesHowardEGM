@@ -1,4 +1,4 @@
-# Hi, I'm James Howard — Cyber Security Specialist
+# Hi, I'm James Howard, Cyber Security Specialist
 
 I came to cybersecurity from the physical world. I spent years in the construction industry reading engineering drawings, managing projects, and understanding how buildings are designed and secured. When I realised that digital infrastructure had become the most critical layer of modern society, I made the shift, enrolling in a Bachelor of Cyber Security at La Trobe University and not looking back.
 
@@ -18,38 +18,38 @@ My long-term focus is converged security: protecting critical infrastructure by 
 
 | Cert | Date |
 |---|---|
-| eJPT — Junior Penetration Tester (INE Security) | ✅ March 2026 |
+| eJPT: Junior Penetration Tester (INE Security) | ✅ March 2026 |
 
 **In Progress**
 
 | | |
 |---|---|
-| Bachelor of Cyber Security — La Trobe University (WAM: 80) | 🔄 October 2026 |
+| Bachelor of Cyber Security, La Trobe University (WAM: 80) | 🔄 October 2026 |
 | Certificate II in Security Operations | 🔄 August 2026 |
 
 **Current Study**
 
 | | |
 |---|---|
-| SC-200 — Microsoft Security Operations Analyst | 🎯 Target: October 2026 |
+| SC-200: Microsoft Security Operations Analyst | 🎯 Target: October 2026 |
 
 **Roadmap**
 
 | Cert | Target |
 |---|---|
-| AZ-104 — Microsoft Azure Administrator | 📅 2026 |
-| AZ-500 — Microsoft Azure Security Engineer | 📅 2027 |
+| AZ-104: Microsoft Azure Administrator | 📅 2026 |
+| AZ-500: Microsoft Azure Security Engineer | 📅 2027 |
 | Certificate IV in Security Management | 📅 2027 |
-| SC-100 — Microsoft Cybersecurity Architect | 📅 2028 |
+| SC-100: Microsoft Cybersecurity Architect | 📅 2028 |
 
 ---
 
 ## Experience
 
-**Cyber Security Intern (SOC Monitoring & Research) — OneStep Group** *(12 weeks)*
-Working in a Microsoft Sentinel environment — triaging alerts, investigating incidents, writing KQL detection queries, and supporting audit workflows.
+**Cyber Security Intern (SOC Monitoring & Research), OneStep Group** *(12 weeks)*
+Working in a Microsoft Sentinel environment: triaging alerts, investigating incidents, writing KQL detection queries, and supporting audit workflows.
 
-**IT Intern — Football Victoria** *(12 weeks, in progress)*
+**IT Intern, Football Victoria** *(12 weeks, in progress)*
 Providing IT support and setting up environments across the Microsoft 365 suite.
 
 ---

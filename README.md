@@ -27,12 +27,6 @@ My long-term focus is converged security: protecting critical infrastructure by 
 | Bachelor of Cyber Security, La Trobe University (WAM: 80) | 🔄 October 2026 |
 | Certificate II in Security Operations | 🔄 August 2026 |
 
-**Current Study**
-
-| | |
-|---|---|
-| SC-200: Microsoft Security Operations Analyst | 🎯 Target: October 2026 |
-
 **Roadmap**
 
 | Cert | Target |

@@ -27,15 +27,6 @@ I am open to roles across IT support, cloud, security operations, or anything th
 |---|---|
 | Bachelor of Cyber Security, La Trobe University (WAM: 80) | 🔄 October 2026 |
 
-**Roadmap**
-
-| Cert | Target |
-|---|---|
-| AZ-104: Microsoft Azure Administrator | 📅 2026 |
-| AZ-500: Microsoft Azure Security Engineer | 📅 2027 |
-| Certificate IV in Security Management | 📅 2027 |
-| SC-100: Microsoft Cybersecurity Architect | 📅 2028 |
-
 ---
 
 ## Experience

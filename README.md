@@ -1,6 +1,6 @@
 # Hi, I'm James Howard
 
-I am an IT and security graduate finishing a Bachelor of Cyber Security at La Trobe University (WAM: 80, graduating October 2026). I have completed two internships: a 12-week cyber security role embedded in a live SOC at OneStep Group, and a 12-week IT support role at Football Victoria. I am actively looking for the right opportunity in IT or security after I graduate.
+I am an IT and security graduate finishing a Bachelor of Cyber Security at La Trobe University (WAM: 80, graduating October 2026). I have completed a 12-week cyber security internship embedded in a live SOC at OneStep Group, and am currently undertaking a 12-week IT support internship at Football Victoria. I am actively looking for the right opportunity in IT or security after I graduate.
 
 I came to tech from a background in the construction industry, where I spent years reading engineering drawings, managing projects, and working across complex physical environments. That experience taught me how to think practically, communicate with stakeholders, and stay organised under pressure. It also gave me a perspective that is not common in this industry.
 

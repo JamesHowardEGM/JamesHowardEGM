@@ -49,10 +49,6 @@ Enterprise-grade vulnerability scanning platform built for .NET APIs and React a
 Python automation tool for Microsoft Sentinel audits. Handles multi-file JSON merging, rule decomposition, versioned session management, and generates colour-coded Excel audit reports with compliance signatures.
 `Python` `Pandas` `XlsxWriter` `Microsoft Sentinel` `Tkinter`
 
-### [Microsoft Sentinel Home Lab](https://github.com/JamesHowardEGM/Sentinel-Home-Lab)
-Hands-on Sentinel lab built in Azure to develop practical SIEM skills. Covers SIEM setup, custom KQL detection queries, threat intelligence ingestion, analytics rules, playbooks, and incident investigation walkthroughs.
-`Microsoft Sentinel` `KQL` `Azure` `Defender for Cloud` `Threat Intelligence`
-
 ### [DVWA Security Assessments](https://github.com/JamesHowardEGM/DVWA-Security-Assessments)
 Red and blue team assessment of OWASP Top 10 vulnerabilities using Kali Linux and DVWA. Includes KQL detection rules written for Microsoft Sentinel to detect the exploited techniques.
 `Kali Linux` `DVWA` `OWASP Top 10` `KQL` `Microsoft Sentinel`
